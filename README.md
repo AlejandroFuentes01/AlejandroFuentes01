@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandrofuentes01" alt="alejandrofuentes01" /></a> </p>
 
-- 🔭 I’m currently working on **Leroc Infraestructuras Page**
-
 - 📫 How to reach me **alejandrofuentesvirgen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
