@@ -17,7 +17,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrofuentes01&show_icons=true&locale=en&layout=compact" alt="alejandrofuentes01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrofuentes01&" alt="alejandrofuentes01" /></p>
 
 <img src="https://raw.githubusercontent.com/alejandrofuentes01/alejandrofuentes01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
