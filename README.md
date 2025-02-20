@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrofuentes01&" alt="alejandrofuentes01" /></p>
 
-<img src="https://raw.githubusercontent.com/TU_NOMBRE_DE_USUARIO/TU_NOMBRE_DE_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alejandrofuentes01/alejandrofuentes01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
